@@ -257,7 +257,7 @@
 	"🧠 Generate Humanity": "🧠 Создать запоминаемый",
 	"🔑 Password has been generated. Tap here to copy: <code>%s</code>": "🔑 Пароль сгенерирован. Нажмите для копирования: <code>%s</code>",
 	"📷 Read Photo": "📷 Распознать фото",
-	"🕹 Menu": "🕹 Menu",
+	"🕹 Menu": "🕹 Меню",
 	"🎁 Here is a little boost: +%s ⭐ to your balance! Thanks for being with us.": "🎁 Небольшой бонус: +%s ⭐ на ваш баланс! Спасибо, что вы с нами.",
 	"\n%s\n\nPosition: %s\nScale: %s\nOpacity: %s\n": "\n%s\n\nПозиция: %s\nМасштаб: %s\nПрозрачность: %s\n",
 	"Could not save the entity.": "Не удалось сохранить сущность.",
